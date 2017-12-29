@@ -1,0 +1,13 @@
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\TK.exe
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\TK.pdb
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\OpenTK.Compatibility.dll
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\OpenTK.dll
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\OpenTK.GLControl.dll
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\OpenTK.pdb
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\OpenTK.xml
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\bin\Debug\OpenTK.GLControl.xml
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\obj\x86\Debug\TK.Form1.resources
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\obj\x86\Debug\TK.Properties.Resources.resources
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\obj\x86\Debug\TK.csproj.GenerateResource.Cache
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\obj\x86\Debug\TK.exe
+c:\users\inwoo\documents\visual studio 2010\Projects\TK\TK\obj\x86\Debug\TK.pdb
